@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-I'm currently studying Computer Engineering at the University of Waterloo. I'm currently interested in software design, embedded systems, and electrical engineering, and I work on a variety of projects in all areas to continue to further my growth as an engineering student. While many of my repos are private, you can learn more about all my projects below! 
+I'm currently studying Computer Engineering at the University of Waterloo. I'm currently interested in software design, embedded systems, electrical design, and I work on a variety of projects in all areas to continue to further my growth as an engineering student! 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,64 +11,76 @@ I'm currently studying Computer Engineering at the University of Waterloo. I'm c
 <h3 align="left">Projects and Repos:</h3>
 
 
-<h4 align="left">/ece108 (Status: Private)</h4>
-<h6>Lean4, LaTeX</h6>
+<h4 align="left">/ece108</h4>
+<h6>Lean4, LaTeX | Status: Private | Year: 2025</h6>
 
 Logical proofs (including sets, lists, induction, etc) written in Lean4 using a custom library created by the course instructor. Also includes combinatorics and probability assignments completed in LaTeX. As assignments may be reused in the future, this repository is private.
 
-<h4 align="left">/ece124 (Status: Private)</h4>
-<h6>VHDL</h6>
+<h4 align="left">/ece124</h4>
+<h6>VHDL | Status: Private | Year: 2025</h6>
 
 FPGA programming using VHDL. Some projects in this folder include a 2 digit hex adder, a simulated smart home energy monitor, and traffic light management for an intersection. As labs/projects may be reused in the future, this repository is private.
 
-<h4 align="left">/ece150 (Status: Private)</h4>
-<h6>C++</h6>
+<h4 align="left">/ece150</h4>
+<h6>C++ | Status: Private | Year: 2024</h6>
 
 Introduction to C++ course. Projects are quite simple in this course, and include a linked list class written from scratch with custom functions. As labs/projects may be reused in the future, this repository is private.
 
-<h4 align="left"><a href="https://github.com/joel-crasto/ece198">/ece198</a> (Status: Public)</h4>
-<h6>C</h6>
+<h4 align="left"><a href="https://github.com/joel-crasto/ece198">/ece198</a></h4>
+<h6>C | Status: Public | Year: 2024</h6>
 
-WatCard attendance counter. Displays scanned WatCard serial numbers, rejects multiple scans in a row of the same card, and only stores serial numbers once. Provisions in place to store numbers on SD card for instructors to use by connecting to PC and running software to check serial numbers against student numbers/names, but to meet demonstration requirements, the serial numbers were instead displayed on an LCD.
+WatCard attendance counter using STM32. Displays scanned WatCard serial numbers, rejects multiple scans in a row of the same card, and only stores serial numbers once. Provisions in place to store numbers on SD card for instructors to use by connecting to PC and running software to check serial numbers against student numbers/names, but to meet demonstration requirements, the serial numbers were instead displayed on an LCD. Audio and visual feedback when scanned. Uses UART and SPI interfacing.
 
-<h4 align="left">/extended_essay (Status: Private)</h4>
-<h6>LaTeX</h6>
+<h4 align="left">/extended_essay</h4>
+<h6>LaTeX, ImageJ | Status: Private | Year: 2023</h6>
+
+Looking at the effect on the produced interferogram of different polarization states along both paths of a Mach Zehnder interferometer. Measured and analyzed approximately 3000 data points using ImageJ and Excel. Word count is approximately 4000 words. Recieved Grade A from IBO (awarded to the top 8.2% of Science EEs in the May 2024 session globally).
+
+I got interested in optics and polarization after learning a bit about how quantum communication is being used currently. I hope to continue to further my interests in quantum computing at Waterloo, given the resources at IQC and the new quantum engineering option available for Computer Engineering.
+
+<h4 align="left">/waterloo_pathfinder</h4>
+<h6>Python | Status: Private | Year: 2024</h6>
+
+Designed to navigate Waterloo's tunnels and selected outdoor paths using the A* algorithm and a priority minheap. Time estimation based on distances and walking speed. A frontend is not planned in the future, but one may be added before making it public.
+
+<h4 align="left">/destination_recommender</h4>
+<h6>PostgreSQL | Status: Private | Year: 2025</h6>
+
+A database of destinations from YVR, with multiple columns to filter by, optimized querying performance using indexing and clsutering, triggers to automatically estimate flight time, and roles for database management. A frontend is planned in the future before making it public.
+
+<h4 align="left">/cpu_simulator</h4>
+<h6>Python | Status: Private | Year: 2025</h6>
+
+A simulation that is capable of running core MIPS instructions, including register manipulation and cache interaction. Some cleanup is required on this project's code before making it public. 
+
+<h4 align="left">/reddit_swipe</h4>
+<h6>React, Redux | Status: Active Development | Year: 2025</h6>
+
+Reddit client designed to take advantage of keyboard shortcuts and swiping gestures to complete actions. Due to the complexity of this project and the workload of this school term, I expect the project to take a few additional months.
+
+<h4 align="left">/ftc_ioc24</h4>
+<h6>Java, TFLite | Status: Private | Year: 2024</h6>
 
 
-<h4 align="left">/waterloo_pathfinder (Status: Private)</h4>
-<h6>Python</h6>
 
-
-<h4 align="left">/destination_recommender (Status: Private)</h4>
-<h6>Python</h6>
-
-
-<h4 align="left">/cpu_simulator (Status: Private)</h4>
-<h6>Python</h6>
-
-
-<h4 align="left">/reddit_swipe (Status: Active Development)</h4>
-<h6>React, Redux</h6>
-
-
-<h4 align="left">/ftc_ioc24 (Status: Private)</h4>
-<h6>Java, TFLite</h6>
+<h4 align="left">/ftc_dynaco23</h4>
+<h6>Java | Status: Private | Year: 2023</h6>
 
 
 <h4 align="left"><a href="https://github.com/joel-crasto/ece198">/theanonymoushelpers.github.io</a> (Status: Public)</h4>
-<h6>JavaScript, HTML, CSS, JSON</h6>
+<h6>JavaScript, HTML, CSS, JSON | Status: Public | Year: 2024</h6>
 
 
 <h4 align="left"><a href="https://github.com/joel-crasto/ece198">/tahexamtimer</a> (Status: Public)</h4>
-<h6>Flutter, Dart</h6>
+<h6>Flutter, Dart | Status: Public | Year: 2024</h6>
 
 
 <h4 align="left">/tah_quiz_compiler (Status: Private)</h4>
-<h6>Python</h6>
+<h6>Python | Status: Private | Year: 2023</h6>
 
 
 <h4 align="left">/flashcard_convert (Status: Private)</h4>
-<h6>Python</h6>
+<h6>Python | Status: Private | Year: 2023</h6>
 
 
 
