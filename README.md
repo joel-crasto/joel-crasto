@@ -12,18 +12,64 @@ I'm currently studying Computer Engineering at the University of Waterloo. I'm c
 
 
 <h4 align="left">/ece108 (Status: Private)</h4>
+<h6>Lean4, LaTeX</h6>
 
 Logical proofs (including sets, lists, induction, etc) written in Lean4 using a custom library created by the course instructor. Also includes combinatorics and probability assignments completed in LaTeX. As assignments may be reused in the future, this repository is private.
 
 <h4 align="left">/ece124 (Status: Private)</h4>
+<h6>VHDL</h6>
 
 FPGA programming using VHDL. Some projects in this folder include a 2 digit hex adder, a simulated smart home energy monitor, and traffic light management for an intersection. As labs/projects may be reused in the future, this repository is private.
 
 <h4 align="left">/ece150 (Status: Private)</h4>
+<h6>C++</h6>
 
 Introduction to C++ course. Projects are quite simple in this course, and include a linked list class written from scratch with custom functions. As labs/projects may be reused in the future, this repository is private.
 
 <h4 align="left"><a href="https://github.com/joel-crasto/ece198">/ece198</a> (Status: Public)</h4>
+<h6>C</h6>
+
+WatCard attendance counter. Displays scanned WatCard serial numbers, rejects multiple scans in a row of the same card, and only stores serial numbers once. Provisions in place to store numbers on SD card for instructors to use by connecting to PC and running software to check serial numbers against student numbers/names, but to meet demonstration requirements, the serial numbers were instead displayed on an LCD.
+
+<h4 align="left">/extended_essay (Status: Private)</h4>
+<h6>LaTeX</h6>
+
+
+<h4 align="left">/waterloo_pathfinder (Status: Private)</h4>
+<h6>Python</h6>
+
+
+<h4 align="left">/destination_recommender (Status: Private)</h4>
+<h6>Python</h6>
+
+
+<h4 align="left">/cpu_simulator (Status: Private)</h4>
+<h6>Python</h6>
+
+
+<h4 align="left">/reddit_swipe (Status: Active Development)</h4>
+<h6>React, Redux</h6>
+
+
+<h4 align="left">/ftc_ioc24 (Status: Private)</h4>
+<h6>Java, TFLite</h6>
+
+
+<h4 align="left"><a href="https://github.com/joel-crasto/ece198">/theanonymoushelpers.github.io</a> (Status: Public)</h4>
+<h6>JavaScript, HTML, CSS, JSON</h6>
+
+
+<h4 align="left"><a href="https://github.com/joel-crasto/ece198">/tahexamtimer</a> (Status: Public)</h4>
+<h6>Flutter, Dart</h6>
+
+
+<h4 align="left">/tah_quiz_compiler (Status: Private)</h4>
+<h6>Python</h6>
+
+
+<h4 align="left">/flashcard_convert (Status: Private)</h4>
+<h6>Python</h6>
+
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-crasto&show_icons=true&theme=dark&locale=en&layout=compact" alt="joel-crasto" /></p>
