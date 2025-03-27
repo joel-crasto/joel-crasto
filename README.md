@@ -75,12 +75,12 @@ Code for Team 16504 Dynaco for the 2023 FTC season. Both autonomous and teleop m
 
 <h4 align="left">The Anonymous Helpers Project</h4>
 
-<h4 align="left"><a href="https://github.com/joel-crasto/ece198">/theanonymoushelpers.github.io</a></h4>
+<h4 align="left"><a href="https://github.com/theanonymoushelpers/theanonymoushelpers.github.io">/theanonymoushelpers.github.io</a></h4>
 <h6>JavaScript, HTML, CSS, JSON | Status: Public | Year: 2024</h6>
 
 Developed platform to help students learn the IB curriculum online with review sheets, quizzes, flashcards, and practice tests. Hosts over 1000 practice questions across more than 10 subjects. 14 question and content contributors during the project's peak. Developed interactive learning content, math learning powered by Desmos, and math typesetting using ASCII math.
 
-<h4 align="left"><a href="https://github.com/joel-crasto/ece198">/tahexamtimer</a></h4>
+<h4 align="left"><a href="https://github.com/theanonymoushelpers/tahexamtimer">/tahexamtimer</a></h4>
 <h6>Flutter, Dart | Status: Public | Year: 2024</h6>
 
 PWA developed to help students complete practice tests under exam conditions. Can be used in examinations with support for multiple exams at the same time (HL/SL), timestamps produced when exam starts in case of power failure, and preset times for all exams.
