@@ -1,7 +1,7 @@
 
 <h1>Welcome to my GitHub!</h1>
 
-I'm currently studying Computer Engineering at the University of Waterloo. I'm currently interested in software design, embedded systems, electrical design, and I work on a variety of projects in all areas to continue to grow as a developer! 
+I'm currently studying Computer Engineering at the University of Waterloo. I'm currently interested in software design, embedded systems, electrical design, and I work on a variety of projects in all areas to continue to grow as a developer! Please note some hyperlinks may not work or lead to private pages, as I'm working to update my portfolio for F25.
 
 
 <h1>Languages and Tools</h1>
