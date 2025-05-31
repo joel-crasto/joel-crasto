@@ -12,19 +12,25 @@ I'm currently studying Computer Engineering at the University of Waterloo. I'm c
 
 <h1>Projects and Repos</h1>
 
-<h2 align="left">Academic Projects</h2>
+<h2 align="left">Academic Projects/Labs</h2>
 
-<h4 align="left">/ece108</h4>
+<h4 align="left"><a href="https://github.com/joel-crasto/project-descriptions/tree/main/ece-coursework#ece-106">/ece106</a></h4>
+<h6>COMSOL| Status: Private | Year: 2025</h6>
+
+Electricity and magnetism course. Using COMSOL to simulate electric fields, charge distributions, and capacitors.
+
+
+<h4 align="left"><a href="https://github.com/joel-crasto/project-descriptions/tree/main/ece-coursework#ece-108">/ece108</a></h4>
 <h6>Lean4, LaTeX | Status: Private | Year: 2025</h6>
 
 Logical proofs (including sets, lists, induction, etc) written in Lean4 using a custom library created by the course instructor. Also includes combinatorics and probability assignments completed in LaTeX. As assignments may be reused in the future, this repository is private.
 
-<h4 align="left">/ece124</h4>
+<h4 align="left"><a href="https://github.com/joel-crasto/project-descriptions/tree/main/ece-coursework#ece-124">/ece124</a></h4>
 <h6>VHDL | Status: Private | Year: 2025</h6>
 
 FPGA programming using VHDL. Some projects in this folder include a 2 digit hex adder, a simulated smart home energy monitor, and traffic light management for an intersection. As labs/projects may be reused in the future, this repository is private.
 
-<h4 align="left">/ece150</h4>
+<h4 align="left"><a href="https://github.com/joel-crasto/project-descriptions/tree/main/ece-coursework#ece-150">/ece150</a></h4>
 <h6>C++ | Status: Private | Year: 2024</h6>
 
 Introduction to C++ course. Projects are quite simple in this course, and include a linked list class written from scratch with custom functions. As labs/projects may be reused in the future, this repository is private.
@@ -43,7 +49,7 @@ I got interested in optics and polarization after learning a bit about how quant
 
 <h2 align="left">Personal Projects</h2>
 
-<h4 align="left">/profile/h4>
+<h4 align="left">/profile</h4>
 <h6>JavaScript, Vite, Three.js | Status: Active Development | Year: 2025</h6>
 
 My personal website. 
