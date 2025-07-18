@@ -51,8 +51,10 @@ I got interested in optics and polarization after learning a bit about how quant
 This section is being updated for F25.
 
 <h4 align="left">WARG/EE</h4>
+<h6>Documentation WIP | Year: 2025</h6>
 
 <h4 align="left">Reality Labs/Software (+ some electrical)</h4>
+<h6>Documentation WIP | Year: 2025</h6>
 
 <h2 align="left">Summer 2025 Projects</h2>
 
