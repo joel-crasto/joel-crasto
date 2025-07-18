@@ -54,9 +54,31 @@ This section is being updated for F25.
 
 <h4 align="left">Reality Labs/Software (+ some electrical)</h4>
 
-<h2 align="left">Highlight Projects</h2>
+<h2 align="left">Summer 2025 Projects</h2>
 
 This section is being updated for F25.
+
+<h4 align="left">/app-projects</h4>
+<h6>Documentation WIP | Year: 2025</h6>
+
+Placeholder
+
+<h4 align="left">/ml-projects</h4>
+<h6>Documentation WIP | Year: 2025</h6>
+
+Placeholder
+
+<h4 align="left">/qu-projects</h4>
+<h6>Documentation WIP | Year: 2025</h6>
+
+Placeholder
+
+<h4 align="left">/stm-projects</h4>
+<h6>Documentation WIP | Year: 2025</h6>
+
+Placeholder
+
+<h2 align="left">Older Projects</h2>
 
 <h4 align="left">/profile</h4>
 <h6>Stack Changed | Status: Active Development | Year: 2025</h6>
