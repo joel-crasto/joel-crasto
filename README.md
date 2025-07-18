@@ -47,32 +47,31 @@ Looking at the effect on the produced interferogram of different polarization st
 
 I got interested in optics and polarization after learning a bit about how quantum communication is being used currently. I hope to continue to further my interests in quantum computing at Waterloo, given the resources at IQC and the new quantum engineering option available for Computer Engineering.
 
-<h2 align="left">Personal Projects</h2>
+<h2 align="left">Design Teams</h2>
+This section is being updated for F25.
+
+<h4 align="left">WARG/EE</h4>
+
+<h4 align="left">Reality Labs/Software (+ some electrical)</h4>
+
+<h2 align="left">Highlight Projects</h2>
+
+This section is being updated for F25.
 
 <h4 align="left">/profile</h4>
-<h6>JavaScript, Vite, Three.js | Status: Active Development | Year: 2025</h6>
+<h6>Stack Changed | Status: Active Development | Year: 2025</h6>
 
 My personal website. 
-
-<h4 align="left">/reddit_swipe</h4>
-<h6>React, Redux | Status: Active Development | Year: 2025</h6>
-
-Reddit client designed to take advantage of keyboard shortcuts and swiping gestures to complete actions. Due to the complexity of this project and the workload of this school term, I expect the project to take a few additional months.
-
-<h4 align="left">/cpu_simulator</h4>
-<h6>Python | Status: Private | Year: 2025</h6>
-
-A simulation that is capable of running core MIPS instructions, including register manipulation and cache interaction. Some cleanup is required on this project's code before making it public. 
 
 <h4 align="left">/destination_recommender</h4>
 <h6>PostgreSQL | Status: Private | Year: 2025</h6>
 
-A database of destinations from YVR, with multiple columns to filter by, optimized querying performance using indexing and clsutering, triggers to automatically estimate flight time, and roles for database management. A frontend is planned in the future before making it public.
+A database of destinations from YVR, with multiple columns to filter by, optimized querying performance using indexing and clsutering, triggers to automatically estimate flight time, and roles for database management. 
 
 <h4 align="left">/waterloo_pathfinder</h4>
 <h6>Python | Status: Private | Year: 2024</h6>
 
-Designed to navigate Waterloo's tunnels and selected outdoor paths using the A* algorithm and a priority minheap. Time estimation based on distances and walking speed. A frontend is not planned in the future, but one may be added before making it public.
+Designed to navigate Waterloo's tunnels and selected outdoor paths using the A* algorithm and a priority minheap. Time estimation based on distances and walking speed. 
 
 <h2 align="left">FTC Robotics</h2>
 
