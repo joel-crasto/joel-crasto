@@ -15,7 +15,7 @@ I'm currently studying Computer Engineering at the University of Waterloo. I'm c
 <h2 align="left">Academic Projects/Labs</h2>
 
 <h4 align="left"><a href="https://github.com/joel-crasto/project-descriptions/tree/main/ece-coursework#ece-106">/ece106</a></h4>
-<h6>COMSOL| Status: Private | Year: 2025</h6>
+<h6>COMSOL | Status: Private | Year: 2025</h6>
 
 Electricity and magnetism course. Using COMSOL to simulate electric fields, charge distributions, and capacitors.
 
